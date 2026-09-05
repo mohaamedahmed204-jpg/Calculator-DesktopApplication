@@ -1,3 +1,5 @@
+<img width="480" height="615" alt="Screenshot 2026-09-05 143734" src="https://github.com/user-attachments/assets/1d4ea881-5ba7-4e3d-adad-f027d985b6ab" />
+<img width="474" height="624" alt="Screenshot 2026-09-05 143721" src="https://github.com/user-attachments/assets/0f2a1d2e-9d7c-4824-8586-48527a8c75b4" />
 # 🧮 Calculator-DesktopApplication-WindowsForms
 
 An intuitive and feature-rich **Windows Forms** desktop application built with **C#** and **.NET**, featuring seamless arithmetic capabilities, dynamic theme switching, and robust input validation.

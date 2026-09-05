@@ -6,7 +6,7 @@ An intuitive and feature-rich **Windows Forms** desktop application built with *
 
 ## 📸 Application Screenshots
 
-| ☀️ Light Mode | 🌙 Dark Mode |
+| 🌙 Dark Mode | ☀️ Light Mode |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/1d4ea881-5ba7-4e3d-adad-f027d985b6ab" width="480" /> | <img src="https://github.com/user-attachments/assets/0f2a1d2e-9d7c-4824-8586-48527a8c75b4" width="474" /> |
 
